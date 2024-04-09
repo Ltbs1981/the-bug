@@ -32,6 +32,7 @@ int main() {
         media = soma / num_alunos;
 
         printf("A média das notas da Turma %d é: %.2f\n", t, media);
+        printf ("Obrigado e volte sempre");
     }
 
     return 0;
